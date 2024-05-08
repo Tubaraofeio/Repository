@@ -1,0 +1,73 @@
+body{
+	font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+	background: #ffffff url('_584699_5_4b279e1cf58fc1172bb4f4ade94aa0ed-Photoroom.jpg');
+}
+
+#principal {
+	width: 900px;
+}
+
+#menu {
+	background: #c5c5b2;
+	padding: 18px;
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+
+.texto1{
+	font-family: Arial;
+	text-indent: 50px;
+	align-items: center;
+	font-weight: bold;
+}
+
+#rodape{
+	font-weight: bolder;
+	opacity: 0.6;
+	
+}
+
+.historic_Image{
+	width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {width: 100%}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.logo {
+    float: left;
+     }
+
+	 
+.polaroid{
+	width: 80%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom: 25px;
+}
+.photo{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contacto {
+    font-weight: bold;
+}
